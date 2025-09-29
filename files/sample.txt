@@ -1,0 +1,5 @@
+Welcome to the Book Shop.
+We have a variety of books.
+Fiction, Non-Fiction, and Educational.
+Today's special discount: 10% off.
+Thank you for visiting!
